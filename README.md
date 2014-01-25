@@ -1,0 +1,4 @@
+serdaropenshift
+===============
+
+openshift için kullanılacak
